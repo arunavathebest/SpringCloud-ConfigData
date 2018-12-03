@@ -1,1 +1,1 @@
-# SpringCloud-ConfigData
+#ConfigData
